@@ -1,3 +1,24 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "hello-friend-ng"
+
+# Disable blog functions
+disableKinds = ["taxonomy"]
+
+[params]
+  disableReadOtherPosts = true
+  [params.footer]
+    copyright = true
+  [[params.social]]
+    name = 'discord'
+    url = "https://discord.gg/CgmPzZuVSf"
+
+[languages]
+  [languages.en]
+    baseURL = 'https://silenthillmuseum.net/en/'
+    languageCode = 'en'
+    title = 'Silent Hill Historical Society Guide'
+    copyright = 'Unofficial fan site affiliated with P4L<br>© "Silent Hill" is a registered trademark of Konami Digital Entertainment<br>© "第四境界" is a registered trademark of 株式会社マレ'
+  [languages.ja]
+    baseURL = 'https://silenthillmuseum.net/ja/'
+    languageCode = 'ja'
+    title = 'サイレントヒル歴史資料館攻略'
+    copyright = 'P4Lによる非公式ファンサイト© "サイレントヒル"は株式会社コナミデジタルエンタテインメントの登録商標です© "第四境界"は株式会社マレの登録商標です'
