@@ -3,3 +3,6 @@ hint = 'Hints'
 memo = 'Record'
 goods = 'Goods'
 about = 'About'
+
+notFound = "This page doesn't exist."
+home = 'Home'
