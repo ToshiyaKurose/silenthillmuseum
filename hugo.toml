@@ -5,6 +5,9 @@ disableKinds = ["taxonomy"]
 
 [params]
   disableReadOtherPosts = true
+  enableGlobalLanguageMenu = true
+  [params.logo]
+    path = '/en/icon.png'
   [params.footer]
     copyright = true
   [[params.social]]
@@ -15,10 +18,39 @@ disableKinds = ["taxonomy"]
   [languages.en]
     baseURL = 'https://silenthillmuseum.net/en/'
     languageCode = 'en'
+    languageName = 'English'
     title = 'Silent Hill Historical Society Guide'
     copyright = 'Unofficial fan site affiliated with P4L<br>© "Silent Hill" is a registered trademark of Konami Digital Entertainment<br>© "第四境界" is a registered trademark of 株式会社マレ'
   [languages.ja]
     baseURL = 'https://silenthillmuseum.net/ja/'
     languageCode = 'ja'
+    languageName = '日本語'
     title = 'サイレントヒル歴史資料館攻略'
     copyright = 'P4Lによる非公式ファンサイト© "サイレントヒル"は株式会社コナミデジタルエンタテインメントの登録商標です© "第四境界"は株式会社マレの登録商標です'
+
+[menu]
+  [[menu.main]]
+    identifier = 'list'
+    name = 'list'
+    url = 'list/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'hint'
+    name = 'hint'
+    url = 'hint/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'memo'
+    name = 'memo'
+    url = 'memo/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'goods'
+    name = 'goods'
+    url = 'goods/'
+    weight = 4
+  [[menu.main]]
+    identifier = 'about'
+    name = 'about'
+    url = 'about/'
+    weight = 5
