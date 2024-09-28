@@ -1,0 +1,1 @@
+{{- $number := .Get "number" | default "0" -}}{{- $title := .Get "title" | default $number -}}<input type="checkbox" name="memo" value="{{ $number }}"> {{ $title }}
