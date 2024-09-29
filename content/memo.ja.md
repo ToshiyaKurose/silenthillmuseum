@@ -11,13 +11,13 @@ Data cannot be shared across devices/browsers.
 ## Pages without number
 
 * {{< memo number="article-1" title="Sarah's Riddles Correct Page" >}}
-* {{< memo number="article-2" title="Silent Hill Mystery Artifact Collection: The Ghostly Case of Walter Sullivan" >}}
-* {{< memo number="article-3" title="Message from RAY" >}}
 
 ## D4-mail
+
 * {{< memo number="mail-1" title="Messages regarding material donations" >}}
 * {{< memo number="mail-2" title="Threat from unknown" >}}
 * {{< memo number="mail-3" title="Message from Ruby" >}}
+* {{< memo number="mail-4" title="Get involved in an incident" >}}
 
 ## Lv1
 
@@ -63,10 +63,12 @@ Data cannot be shared across devices/browsers.
 * {{< memo number="31" >}}
 
 ## Lv5
+
 * {{< memo number="32" >}}
 
 ## Lv6
-* {{< memo number="36 (DOG END)" >}}
+
+{{< memo_36 >}}
 
 ## Thoughts
 
