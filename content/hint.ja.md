@@ -67,8 +67,25 @@ It's up to you what you do after reading those emails.
 
 {{< accordion title="Message from Ruby" >}}
 
-About a day later, you receive an email from Ruby. However, upon careful consideration, there are some strange points about this email.  
-What should you do?
+About a day later, you receive an email from Ruby.  
+I guess it's okay to trust her, right?
+
+{{< /accordion >}}
+
+{{< accordion title="Get involved in an incident" >}}
+
+One day later, the incident is discovered and your and Ruby's lives are threatened. To protect yourself, you must find Felix's login information and delete your data as soon as possible.
+
+{{< /accordion >}}
+
+{{< accordion title="Login information" >}}
+
+You can find out the ID/password rules from the login information provided by Ruby and Ruby's profile.  
+ID is "First name + Last Initial + Year the person joined the museum", and password is what the person likes. Therefore, Felix's login information is as follows:
+
+|ID|Password|
+|-|-|
+|FelixC2017|Ruby|
 
 {{< /accordion >}}
 

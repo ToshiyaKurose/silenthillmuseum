@@ -13,6 +13,7 @@ Basically, they can be found in order from the lowest level page.
 If you are unable to find the page you are looking for, please refer to this list.
 
 ## Hidden pages without numbers
+
 {{<accordion title="Sarah's Riddles Correct Page">}}
 https://www.silenthill-historicalsociety.com/staff/sarah870405/heartmark/
 
@@ -28,20 +29,20 @@ The letter between the "n" and "H" in "Silent Hill" is "t". Therefore, the answe
 You can find it by clicking the heart mark on her staff blog photo.
 {{</accordion>}}
 
-{{<accordion title="Silent Hill Mystery Artifact Collection: The Ghostly Case of Walter Sullivan">}}
-**Sharing the URL is prohobited.**
-
----
-
-The method of reaching it has not been discovered.
-{{</accordion>}}
-
 {{<accordion title="Message from RAY">}}
 **Sharing the URL is prohobited.**
 
 ---
 
 When you submit 1/36 form with "Type of artifact" as "Tourist brochure", you see this message. Further hints regarding "D4-mail" can be found on the [hints](/en/hint/) page.
+{{</accordion>}}
+
+{{<accordion title="Silent Hill Mystery Artifact Collection: The Ghostly Case of Walter Sullivan">}}
+**Sharing the URL is prohobited.**
+
+---
+
+As you communicate via D4-mail, you'll be given a URL.
 {{</accordion>}}
 
 ## Hidden pages with numbers
@@ -299,11 +300,24 @@ You can find it by clicking the 156th figure from the top left on page 18/36. (I
 {{</accordion>}}
 
 {{<accordion title="32/36(Lv5)">}}
-*Hidden to prevent spoilers* **Sharing the URL is prohobited.**
+**Sharing the URL is prohobited.**
+
+---
+
+Have you read the article "The Ghostly Case of Walter Sullivan" yet? If you haven't read it yet, please continue the conversation via D4-mail.
+
+---
+
+The article claims "walter is he" is the murderer's message, but doesn't seem this unnatural? Now, take a good look at the first tourist brochure you picked up. Yes, it's a keepsake of a still unknown victim of this serial killer case.  
+Here, the URL of the article is "https\://www.silenthill-historicalsociety.com/[cryptic message through the murders]/", right? Then, try changing this message to the correct one.
 {{</accordion>}}
 
-{{<accordion title="33/36(Lv?)">}}
-**It is now deleted.**
+{{<accordion title="33/36(Lv5)">}}
+**Sharing the URL is prohobited.**
+
+---
+
+As you communicate via D4-mail, you'll be given a URL. Please see the [hints](/en/hint/) page for login information.
 {{</accordion>}}
 
 {{<accordion title="34/36(Lv?)">}}
