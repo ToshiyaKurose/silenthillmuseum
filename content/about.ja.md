@@ -4,8 +4,8 @@ date = 2024-09-28T23:32:18+09:00
 draft = false
 +++
 
-This website is an unofficial guide to the website exploration game "Silent Hill Historical Society" by Konami in collaboration with the Fourth Boundary, and is in no way officially affiliated with Konami or the Fourth Boundary.
+このサイトはコナミと第四境界のコラボによる考察コンテンツ「サイレントヒル歴史資料館」の非公式攻略サイトであり、コナミ及び第四境界公式とは一切関係ありません。
 
-This website is built with the static site generator [Hugo](https://gohugo.io/) and [Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng) theme, and is hosted on GitHub Pages.
+このサイトは静的サイトジェネレーター[Hugo](https://gohugo.io/)とテーマ[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng)によって作成されており、GitHub Pagesにホスティングされています。
 
-The source code is available in the following repository: [ToshiyaKurose/silenthillmuseum](https://github.com/ToshiyaKurose/silenthillmuseum)
+ソースコードは次のリポジトリで公開されています。 [ToshiyaKurose/silenthillmuseum](https://github.com/ToshiyaKurose/silenthillmuseum)

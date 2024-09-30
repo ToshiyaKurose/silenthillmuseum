@@ -4,15 +4,15 @@ date = 2024-09-28T23:18:54+09:00
 draft = false
 +++
 
-The conditions for reaching the endings are listed below.
+各エンディングの到達条件は以下の通りです。
 
 {{< accordion title="DOG END" >}}
 
-Compare the map of South Vale, Silent Hill in the collection with the tourist guide map. Is there anything strange?  
-Yes, this building has clearly been added.
+歴史資料館のサイトに掲載されている地図を観光案内の地図と見比べて見てください。何かおかしな点はありませんか?  
+そうです、この建物は明らかに書き足されています。
 
 ![map](/en/img/map.jpg)
 
-Try clicking on this building repeatedly. What will happen?
+この建物を何度もクリックしてみてください。何が起こるでしょうか?
 
 {{< /accordion >}}

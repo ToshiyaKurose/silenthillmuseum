@@ -4,20 +4,20 @@ date = 2024-09-28T13:00:34+09:00
 draft = false
 +++
 
-You can record the discovery status of hidden pages, the progress of D4-mail, and your thoughts. Please use it as a simple progress memo.
+隠しページの発見状況、D4-mailの進捗、考察を記録できます。進捗メモとしてお使いください。
 
-Data cannot be shared across devices/browsers.
+端末/ブラウザを超えたデータの共有はできません。
 
-## Pages without number
+## 番号のないページ
 
-* {{< memo number="article-1" title="Sarah's Riddles Correct Page" >}}
+* {{< memo number="article-1" title="あたり！" >}}
 
 ## D4-mail
 
-* {{< memo number="mail-1" title="Messages regarding material donations" >}}
-* {{< memo number="mail-2" title="Threat from unknown" >}}
-* {{< memo number="mail-3" title="Message from Ruby" >}}
-* {{< memo number="mail-4" title="Get involved in an incident" >}}
+* {{< memo number="mail-1" title="資料寄贈に関する連絡" >}}
+* {{< memo number="mail-2" title="脅迫事件" >}}
+* {{< memo number="mail-3" title="ルビーからのメール" >}}
+* {{< memo number="mail-4" title="事件に巻き込まれる" >}}
 
 ## Lv1
 

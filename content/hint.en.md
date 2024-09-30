@@ -80,8 +80,8 @@ One day later, the incident is discovered and your and Ruby's lives are threaten
 
 {{< accordion title="Login information" >}}
 
-You can find out the ID/password rules from the login information provided by Ruby and Ruby's profile.  
-ID is "First name + Last Initial + Year the person joined the museum", and password is what the person likes. Therefore, Felix's login information is as follows:
+You can find out the ID rule and and password's hint from information provided by Ruby.  
+ID is "First name + Last Initial + Year the person joined the museum", and password is what he desires. Therefore, Felix's login information is as follows:
 
 |ID|Password|
 |-|-|

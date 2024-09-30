@@ -4,116 +4,116 @@ date = 2024-09-28T18:28:00+09:00
 draft = false
 +++
 
-Here are some hints that are not directly related to finding the hidden pages.
+隠しページの発見とは直接関係ないヒントを掲載しています。
 
-## Silent Hill Test
+## サイレントヒルテスト
 
-Quizzes of your Silent Hill love. The standard version consists of 10 questions and the advanced version consists of 20 questions.  
-You can answer the quiz as it is, answer it while researching, or answer it with playing the main game. How many points can you get?
+あなたのサイレントヒル愛を試すクイズです。通常編は10問、上級編は20問からなります。  
+普通に解いていってもよし、調べながら解いていってもよし、ゲーム本編をやりながら解いていってもよし。あなたは何点をとれるかな?
 
-{{<accordion title="Answer (Standard)">}}
-|Question|Answer|
+{{<accordion title="答え (通常編)">}}
+|問|答え|
 |-|-|
-|1|The place of the silent spirits|
-|2|Neck|
-|3|Walter Sullivan|
-|4|Little Baroness|
-|5|Prison|
-|6|Rosewater Park|
-|7|Paleville District|
-|8|craving|
-|9|Success of the mining industry|
-|10|Yes|
+|1|静かなる精霊の眠る場所|
+|2|首|
+|3|ウォルター・サリバン|
+|4|リトル・バロネス号|
+|5|刑務所|
+|6|ローズウォーター公園|
+|7|ペイルヴィル地区|
+|8|ここ|
+|9|鉱山事業の成功|
+|10|ある|
 {{< /accordion >}}
 
-{{<accordion title="Answer (Advanced)">}}
-|Question|Answer|
+{{<accordion title="答え (上級編)">}}
+|問|答え|
 |-|-|
-|1|Dr. Atkinson|
+|1|アトキンソン医師|
 |2|8am - 5pm|
-|3|A. Conroy|
-|4|Dowsing|
-|5|60 acres|
+|3|A・コンロイ|
+|4|ダウジング|
+|5|60エーカー|
 |6|OUT OF THIS WORLD|
-|7|Mexican|
-|8|Huey the Horse|
-|9|$15|
-|10|St. Stella Church|
-|11|A Candle|
+|7|メキシコ|
+|8|ウマのヒューイ|
+|9|15ドル|
+|10|聖ステラ教会|
+|11|ろうそく|
 |12|2|
-|13|Edward Chester|
-|14|Allen Smith|
-|15|Mining|
-|16|1862|
-|17|1916|
-|18|A woman in blue overalls and a red shirt|
-|19|1810|
-|20|Pleasant River|
+|13|エドワード・チェスター|
+|14|アレン・スミス|
+|15|炭鉱|
+|16|1862年|
+|17|1916年|
+|18|青いオーバーオールと赤いシャツを着た女性|
+|19|1810年|
+|20|プレザントリバー|
 {{< /accordion >}}
 
-By the way, according to the director's staff blog (posted on November 23, 2021), there is a super hard version that you can try when you visit the museum...
+ところで、館長のスタッフブログ(2021.11.23の投稿)によると来館時に挑戦できる"超級"問題があるそうですよ...
 
 ## D4-mail
 
-Soon after you see the message from RAY, you receive an email from Ruby. Let's follow her instructions. Don't have the code on the tourist guide? Try searching for X, reddit, etc.  
-But be careful, this could lead to you getting involved in an incident.
+RAYからのメッセージを読んだ直後、ルビーからメールが届きます。彼女の指示に従いましょう。観光案内のコードを持っていませんか?Xや第四境界公式Discordなどで探してみてください。  
+しかし注意してください。事件に巻き込まれてしまうかもしれませんよ。
 
-{{< accordion title="Threatening incident" >}}
+{{< accordion title="脅迫事件" >}}
 
-Approximately one day after the initial interaction, you receive a threatening email from someone calling themself unknown, followed by several related emails.  
-It's up to you what you do after reading those emails.
-
-{{< /accordion >}}
-
-{{< accordion title="Message from Ruby" >}}
-
-About a day later, you receive an email from Ruby.  
-I guess it's okay to trust her, right?
+最初のやりとりから約1日後、unknownと名乗る人物から脅迫メールが届きそれに関連するメールが何通か届きます。  
+それらを読んでどうするかはあなた次第です。
 
 {{< /accordion >}}
 
-{{< accordion title="Get involved in an incident" >}}
+{{< accordion title="ルビーからのメール" >}}
 
-One day later, the incident is discovered and your and Ruby's lives are threatened. To protect yourself, you must find Felix's login information and delete your data as soon as possible.
+更に約1日後、ルビーからメールが届きます。  
+流石に彼女のことは信用していいんじゃないかな?
 
 {{< /accordion >}}
 
-{{< accordion title="Login information" >}}
+{{< accordion title="事件に巻き込まれる" >}}
 
-You can find out the ID/password rules from the login information provided by Ruby and Ruby's profile.  
-ID is "First name + Last Initial + Year the person joined the museum", and password is what the person likes. Therefore, Felix's login information is as follows:
+その翌日、事件が発覚しあなたとルビーの命が狙われます。身を守るため、できるだけ早くフェリックスのログイン情報を見つけデータを削除しなければなりません。
 
-|ID|Password|
+{{< /accordion >}}
+
+{{< accordion title="ログイン情報" >}}
+
+ルビーが送ってくれた情報からIDの法則とパスワードのヒントが分かります。  
+IDは"名前(英語) + 苗字のイニシャル + 資料館に入職した年"、パスワードはフェリックスが愛している物です。従って、ログイン情報は以下の通りです:
+
+|ID|パスワード|
 |-|-|
 |FelixC2017|Ruby|
 
 {{< /accordion >}}
 
-## Accusations of a man who risked his life
+## 命を懸けたある男の告発文
 
-When you piece together the seven hidden messages (24~30/36), you get the following:
+7つの隠しメッセージ(24~30/36)を繋げ、和訳すると以下のようになります:
 
-{{< accordion title="Accusation" >}}
+{{< accordion title="告発文" >}}
 
-> If something goes down, I stashed the message on this site.  
-> I'm the only one who could pull that off.  
-> Isabel Smith's my aunt.  
-> She was always all smiles.  
-> She got caught up in that unsolved serial murder in this town and passed away when I was 12.  
-> I'm so sorry she left her little daughter behind.  
-> That's why I thought I should try to solve this case myself.  
-> One day, completely by chance, I stumbled upon something unexpected. I found a person using an alias.  
-> He's the one who saved my life.  
-> I started searching for the reason he was using an alias.  
-> Then some facts started to come together.  
-> All I had was a bad feeling.  
-> I was speechless by the hypothesis I came up with.  
-> This person must be the true culprit in the case.  
-> I'm trying to solve.  
-> In the near future, I gotta hit him with my conclusion.  
-> I can't even imagine what I'll find out.
+> もし私の身に何かあった時のために、このサイトにメッセージを隠しておく。  
+> それができるのは私だけだ。  
+> イサベル・スミスは私の叔母だ。  
+> 彼女はいつも笑顔だった。  
+> 彼女はこの街の未解決連続殺人事件に巻き込まれ、私が12歳だった時に他界した。  
+> 彼女が小さな娘を残して亡くなってしまったのはとても残念だ。  
+> だから私はこの事件を自分で解決しようと考えた。  
+> ある日、全くの偶然で、私は思いがけないことに遭遇した。偽名を使っている人物を見つけたのである。  
+> 彼は私の命を救ってくれた恩人だ。  
+> 私は彼が偽名を使っていた理由を調べ始めた。  
+> そしていくつかの事実が明らかになっていった。  
+> 嫌な予感しかしなかった。  
+> 私は思いついた仮説に言葉を失った。  
+> こいつが事件の真犯人に違いない。  
+> 私は事件を解決しようとしている。  
+> 近い将来、私は彼に結論を突きつけなければならない。  
+> 何が分かるか想像もつかない。
 
 {{< /accordion >}}
 
-Given his age, it is believed that Felix Crain wrote the accusation. (If you don't know who he is, continue exploring the website.)  
-Who is the person in question?
+年齢を考慮すると、この告発文を書いたのはフェリックス・クレインでしょう。(もし誰のことか分からないならばサイトの探索を続けてください。)  
+「偽名を使っている人物」とは誰なのでしょうね。
