@@ -16,7 +16,7 @@ draft = false
 
 ![SILENT HILL 2](/en/img/SILENT_HILL_2.jpg)
 
-"SILENT HILL 2"は2001年に発売された同名ゲームのリメイクであるサバイバルホラーゲームです。PlayStation 5とSteamで2024年10月8日に発売予定です。  
+"SILENT HILL 2"は2001年に発売された同名ゲームのリメイクであるサバイバルホラーゲームです。PlayStation 5とSteamで2024年10月8日に発売されました。  
 アメリカの田舎町「サイレントヒル」を探索し、謎を解き、攻撃してくるクリーチャーを倒し、道を切り拓いて、物語を紐解いていきましょう。
 
 [公式サイト](https://www.konami.com/games/silenthill/2r/jp/ja/)

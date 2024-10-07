@@ -12,7 +12,7 @@ English version is currently in preparation.
 
 ![SILENT HILL 2](/en/img/SILENT_HILL_2.jpg)
 
-"SILENT HILL 2" is an upcoming survival horror game developed by Bloober Team and published by Konami, a remake to the 2001 game of the same name. It is scheduled to release for PlayStation 5 and Steam on October 8, 2024.  
+"SILENT HILL 2" is an upcoming survival horror game developed by Bloober Team and published by Konami, a remake to the 2001 game of the same name. It was released for PlayStation 5 and Steam on October 8, 2024.  
 Let's explore the rural American town "Silent Hill", solve riddles, defeat the monsters that attack you, and clear a path to unravel the story.
 
 [Official website](https://www.konami.com/games/silenthill/2r/gate)
