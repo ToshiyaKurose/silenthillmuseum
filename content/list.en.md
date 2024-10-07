@@ -324,8 +324,12 @@ As you communicate via D4-mail, you'll be given a URL. Please see the [hints](/e
 **Undiscovered**
 {{</accordion>}}
 
-{{<accordion title="35/36(Lv?)">}}
-**Undiscovered**
+{{<accordion title="35/36(Lv5)">}}
+Ending **Sharing the URL is prohobited.**
+
+---
+
+36/36 is the ending page. There are some endings and [here's](/en/ending/) how to get to each one.
 {{</accordion>}}
 
 {{<accordion title="36/36(Lv6)">}}

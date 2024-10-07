@@ -16,3 +16,9 @@ draft = false
 この建物を何度もクリックしてみてください。何が起こるでしょうか?
 
 {{< /accordion >}}
+
+{{< accordion title="Normal END" >}}
+
+D4-mailによるやりとりを行い物語を進めていくと自然と辿り着きます。[ヒント](/ja/hint/)ページなども参考に挑戦してみてください。
+
+{{< /accordion >}}

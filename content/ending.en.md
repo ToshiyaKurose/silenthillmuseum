@@ -16,3 +16,9 @@ Yes, this building has clearly been added.
 Try clicking on this building repeatedly. What will happen?
 
 {{< /accordion >}}
+
+{{< accordion title="Normal END" >}}
+
+You find this ending naturally by communicating via D4-mail and progressing through the story. Please refer to the [Hint](/en/hint/) page for further information.
+
+{{< /accordion >}}

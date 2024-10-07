@@ -1,0 +1,7 @@
+{{- $number := .Get "number" | default "0" -}}{{- $title := .Get "title" | default $number -}}
+<details>
+    <summary>{{ if eq .Site.LanguageCode "ja" }}ネタバレ注意!{{ else }}Spoiler alert!{{ end }}</summary>
+    <ul>
+        <li><input type="checkbox" name="memo" value="{{ $number }}"> {{ $title }}</li>
+    </ul>
+</details>

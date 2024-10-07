@@ -18,6 +18,8 @@ Data cannot be shared across devices/browsers.
 * {{< memo number="mail-2" title="Threatening incident" >}}
 * {{< memo number="mail-3" title="Message from Ruby" >}}
 * {{< memo number="mail-4" title="Get involved in an incident" >}}
+* {{< memo number="mail-5" title="Delete completed" >}}
+* {{< memo number="mail-6" title="Ending" >}}
 
 ## Lv1
 
@@ -66,9 +68,11 @@ Data cannot be shared across devices/browsers.
 
 * {{< memo number="32" >}}
 
+{{< memo_ending number="35" title="35 (Normal END)" >}}
+
 ## Lv6
 
-{{< memo_36 >}}
+{{< memo_ending number="36" title="36 (DOG END)" >}}
 
 ## Thoughts
 

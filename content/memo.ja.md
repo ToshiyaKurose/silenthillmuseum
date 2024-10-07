@@ -18,6 +18,8 @@ draft = false
 * {{< memo number="mail-2" title="脅迫事件" >}}
 * {{< memo number="mail-3" title="ルビーからのメール" >}}
 * {{< memo number="mail-4" title="事件に巻き込まれる" >}}
+* {{< memo number="mail-5" title="削除完了" >}}
+* {{< memo number="mail-6" title="エンディング" >}}
 
 ## Lv1
 
@@ -66,11 +68,13 @@ draft = false
 
 * {{< memo number="32" >}}
 
+{{< memo_ending number="35" title="35 (Normal END)" >}}
+
 ## Lv6
 
-{{< memo_36 >}}
+{{< memo_ending number="36" title="36 (DOG END)" >}}
 
-## Thoughts
+## 考察
 
 {{< thoughts >}}
 

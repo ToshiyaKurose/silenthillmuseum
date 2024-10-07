@@ -89,6 +89,12 @@ ID is "First name + Last Initial + Year the person joined the museum", and passw
 
 {{< /accordion >}}
 
+{{< accordion title="Ending" >}}
+Two days after successfully deleting the address, you receive a video message from Ruby, who seems to have somehow survived, and that's the ending.
+
+Now, Ruby sent you the code, right...?
+{{< /accordion >}}
+
 ## Accusations of a man who risked his life
 
 When you piece together the seven hidden messages (24~30/36), you get the following:
